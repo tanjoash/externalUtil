@@ -1,0 +1,12 @@
+#map{
+    height: 100%;
+    width: 100%
+}
+
+/*FOR MAP*/
+.foodIcon {
+    width: 40px;
+    height: 40px;
+    background-image: url("./assets/pin.png");
+    background-size: 40px 40px;
+}
